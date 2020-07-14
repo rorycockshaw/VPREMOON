@@ -1,4 +1,7 @@
 # VPREMOON
+
+## Very Preliminary REference model for the MOON 
+
 Density, P wave and S wave variation through the moon in a simple Python model. 
 
 The data is all stored in the moondata.txt file. Download this and make sure the strdata = open("...""
